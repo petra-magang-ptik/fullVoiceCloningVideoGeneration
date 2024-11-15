@@ -1,0 +1,2 @@
+dataset/44k/audioFilesSBY/sbyPidato_28.wav
+dataset/44k/audioFilesSBY/sbyPidato_27.wav
